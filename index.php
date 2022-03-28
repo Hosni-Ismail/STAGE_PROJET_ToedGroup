@@ -402,7 +402,7 @@ Nous sommes conscient que le suivi des chantiers à distance peut s'avérer diff
 
         <div class="col-lg-6 mt-5 mt-lg-0">
 
-          <h3 class="column-title">Liens utiles</h3>
+          <h3 class="column-title">Lien utile</h3>
 
           <div class="row all-clients">
               <div class="col-sm-4 col-6">
