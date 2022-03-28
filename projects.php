@@ -18,7 +18,7 @@
         </div><!-- Row end -->
     </div><!-- Container end -->
   </div><!-- Banner text end -->
-</div><!-- Banner area end --> 
+</div><!-- Banner area end ah --> 
 
 <section id="main-container" class="main-container">
   <div class="container">
