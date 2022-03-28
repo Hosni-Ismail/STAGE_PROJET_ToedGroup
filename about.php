@@ -12,7 +12,7 @@
                     <ol class="breadcrumb justify-content-center">
                       <li class="breadcrumb-item"><a href="#">Accueil</a></li>
                       <li class="breadcrumb-item active" aria-current="page">À propos </li>
-                    </ol>
+                    </ol> 
                 </nav>
               </div>
           </div><!-- Col end -->
