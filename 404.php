@@ -10,7 +10,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center">
                       <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-                      <li class="breadcrumb-item active" aria-current="page">404</li>
+                      <li class="breadcrumb-item active" aria-current="page">404</li> 
                     </ol>
                 </nav>
               </div>
