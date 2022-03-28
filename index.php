@@ -27,7 +27,7 @@
                 <h3 class="slide-title" data-animation-in="fadeIn">Quand le service compte</h3>
                 <h3 class="slide-sub-title" data-animation-in="slideInLeft">Votre choix est simple</h3>
                 <p data-animation-in="slideInRight">
-                    <a href="projects.php" class="slider btn btn-primary border">Nos Réalisations</a>
+                    <a href="projects.php" class="slider btn btn-primary border">Nos Réalisations</a> 
                 </p>
               </div>
           </div>
