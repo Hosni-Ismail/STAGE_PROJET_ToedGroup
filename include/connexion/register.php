@@ -30,7 +30,7 @@
             $msg = "<div class='alert alert-danger'>{$email} - Cette adresse e-mail existe déjà.</div>";
         } else {
             if ($password === $confirm_password) {
-                $sql = "INSERT INTO users (name, email, password, code) VALUES ('{$name}', '{$email}', '{$password}', '{$code}')";
+                $sql = "INSERT INTO users (name, email, password, code) VALUES ('{$name}', '{$email}', '{$password}', '{$code}')"; 
                 $result = mysqli_query($conn, $sql);
 
                 if ($result) {
