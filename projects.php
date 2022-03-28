@@ -1,7 +1,7 @@
 <?php include('include/header.php'); ?>
 
 <div id="banner-area" class="banner-area" style="background-image:url(images/banner/banner1.jpg)">
-  <div class="banner-text">
+  <div class="banner-text"> 
     <div class="container">
         <div class="row">
           <div class="col-lg-12">
