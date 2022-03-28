@@ -22,7 +22,7 @@ if(isset($_POST)){
     else {
         echo "Veuillez remplir tout les champs...";
     }
-}
+} 
 
 
 

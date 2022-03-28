@@ -37,7 +37,7 @@
         </div>
     </nav>
     <h1 style="text-align: center;font-size: 21.880000000000006px;padding: 67px;">Retrouvez ici tout vos chantiers</h1><button class="btn btn-primary border rounded shadow-sm" type="button" style="width: 150.4875px;height: 138px;background: #27747B;">Chantier 1</button>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script> 
 </body>
 
 </html>

@@ -18,7 +18,7 @@ $progressetude2 = $progressetude->fetch(PDO::FETCH_ASSOC);
 $progressplan = $pdo->prepare('SELECT * FROM chantier WHERE etapes ="plandeconception"');
 $executionIsOk2 = $progressplan->execute();
 $progressplan2 = $progressplan->fetch(PDO::FETCH_ASSOC);
-
+ 
 
 
 $progressdevis = $pdo->prepare('SELECT * FROM chantier WHERE etapes ="devis"');
