@@ -19,7 +19,7 @@ $pdoStat2 = $pdo->prepare('SELECT * FROM chantier INNER JOIN users ON users.id =
 $executionIsOk2 = $pdoStat2->execute();
 
 $contacts2 = $pdoStat2->fetchAll(PDO::FETCH_ASSOC);
-
+ 
 
 ?>
 

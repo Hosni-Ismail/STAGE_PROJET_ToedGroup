@@ -33,7 +33,7 @@ $req->bindValue(':id', $id, PDO::PARAM_INT);
 $req->execute(array($id));
 $result = $req->fetch(PDO::FETCH_ASSOC);
 return $result;
-
+ 
 
 }
 function get_user_id_by_chantier($pdo,$id){

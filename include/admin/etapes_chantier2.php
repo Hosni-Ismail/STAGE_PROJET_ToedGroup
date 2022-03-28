@@ -28,7 +28,7 @@ if(isset($_POST['updatebtn'])){
         $query->bindParam(':nouvelleId',$userid,PDO::PARAM_STR);
 
 
-        $query->execute();
+        $query->execute(); 
 }
 
 

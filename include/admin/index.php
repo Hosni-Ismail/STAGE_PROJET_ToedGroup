@@ -30,7 +30,7 @@
         a:hover {
             color: white;
             background-color: transparent;
-            text-decoration: underline;
+            text-decoration: underline; 
 }
 
         a:active {

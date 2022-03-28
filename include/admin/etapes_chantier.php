@@ -8,7 +8,6 @@ $req="SELECT `nom_chantier`, `type_c`, `priorite`, `ville_chantier`, `date_c`, `
 $query=$pdo->prepare($sql);
 $query->bindParam(':nouvelleId',$userid,PDO::PARAM_STR);
 $query->execute();
-$resultat=$query->fetchAll(PDO::FETCH_OBJECT);
 
 
 ?>
@@ -29,7 +28,7 @@ $resultat=$query->fetchAll(PDO::FETCH_OBJECT);
     <link rel="stylesheet" href="assets/css/Lista-Productos-Canito.css">
     <link rel="stylesheet" href="assets/css/Pretty-Registration-Form.css">
     <link rel="stylesheet" href="assets/css/Table-With-Search-1.css">
-    <link rel="stylesheet" href="assets/css/Table-With-Search.css">
+    <link rel="stylesheet" href="assets/css/Table-With-Search.css"> 
 </head>
 
 <body>

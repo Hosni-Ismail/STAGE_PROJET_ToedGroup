@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/css/Pretty-Registration-Form.css">
     <link rel="stylesheet" href="assets/css/Register-form.css">
     <link rel="stylesheet" href="assets/css/Table-With-Search-1.css">
-    <link rel="stylesheet" href="assets/css/Table-With-Search.css">
+    <link rel="stylesheet" href="assets/css/Table-With-Search.css"> 
 </head>
 
 <body>
