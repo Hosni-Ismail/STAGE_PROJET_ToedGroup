@@ -90,7 +90,7 @@ Le responsable publication est une personne physique ou une personne morale.<br 
 <p>Informations personnelles : « les informations qui permettent, sous quelque forme que ce soit, directement ou non, l'identification des personnes physiques auxquelles elles s'appliquent » (article 4 de la loi n° 78-17 du 6 janvier 1978).</p>
 </div>
 </div>
-</div>
+</div> 
 
   </div><!-- Conatiner end -->
 </section><!-- Main container end -->
