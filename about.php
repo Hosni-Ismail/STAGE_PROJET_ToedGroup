@@ -21,7 +21,7 @@
   </div><!-- Banner text end -->
 </div><!-- Banner area end --> 
 
-<section id="main-container" class="main-container">
+<section id="main-container" class="main-container"> 
   <div class="container">
     <div class="row">
         <div class="col-lg-6">
