@@ -12,7 +12,7 @@ Parlez-nous de votre projet de construction !</p>
                 <li><a href="https://www.instagram.com/toedgroup/?utm_medium=copy_link" aria-label="Instagram"><i
                       class="fab fa-instagram"></i></a></li>
               </ul>
-            </div><!-- Footer social end -->
+            </div><!-- Footer social end --> 
           </div><!-- Col end -->
 
           <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">
