@@ -13,7 +13,7 @@ RewriteRule ^(.*)$ $1.php [NC,L]
 
 	## Mettre sur on/off pour activé/désactivé l'etat en maintenance du site.
 Options +FollowSymlinks
-RewriteEngine off
+RewriteEngine on
 ## pour maintenance ##
 RewriteRule ^([A-Z/0-9/a-z/_/-]+)\.html$ maintenance.php [L,NC]
 RewriteRule ^([A-Z/0-9/a-z/_/-]+)\.php$  maintenance.php [L,NC]
