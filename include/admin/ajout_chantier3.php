@@ -88,7 +88,7 @@ $lesclients = $req->fetchAll()
                                     <?php 
                                         foreach($lesclients as $client){
                                             echo '<option value="'.$client["id"].'">'.$client["name"].'</option>';
-                                        }
+                                        } 
                                     ?>
                                     </select>
 
