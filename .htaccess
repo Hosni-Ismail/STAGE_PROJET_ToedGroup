@@ -1,3 +1,4 @@
+	## Page 404 en cas d'url non existante
 ErrorDocument 404 https://toedgroup.go.yj.fr/404.php
 RewriteEngine On
 
@@ -9,3 +10,10 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L] 
+
+	## Mettre sur on/off pour activé/désactivé l'etat en maintenance du site.
+Options +FollowSymlinks
+RewriteEngine on
+## pour maintenance ##
+RewriteRule ^([A-Z/0-9/a-z/_/-]+)\.html$ maintenance.php [L,NC]
+RewriteRule ^([A-Z/0-9/a-z/_/-]+)\.php$  maintenance.php [L,NC]
