@@ -81,6 +81,14 @@
                         <div class="rf-input-container"><input class="form-control rf-input-field" type="text" name="priorite" placeholder="Priorité"></div>
                         <div class="rf-input-container"><input class="form-control rf-input-field" type="date" name="date_c" placeholder="Date de commencement">
                     </div><button class="btn btn-primary rf-btn" type="button">Ajouter</button>
+                    <select name="user_id" style="border-color: rgb(218,218,218);border-radius: 4px;color: rgb(78,77,77);">
+                                    <option value="all_users" selected=>Les clients</option>
+                                    <?php 
+                                        foreach($lesclients as $client){
+                                            echo '<option value="'.$client["id"].'">'.$client["nom"].'</option>';
+                                        } 
+                                    ?>
+                                    </select>
                     </form>
                 </div>
             </div>
